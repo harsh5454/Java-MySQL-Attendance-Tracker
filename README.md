@@ -18,10 +18,10 @@ A console-based backend application designed to manage student attendance record
 ## 📸 Output Screenshots
 
 **1. Generating the Analytical Report**
-*(Drag and drop your report.png screenshot here on the GitHub website to upload it)*
+
 
 **2. Database Persistence**
-*(Drag and drop your MySQL table screenshot here)*
+
 
 ## 🚀 How to Run Locally
 1. Ensure MySQL Server is running.
